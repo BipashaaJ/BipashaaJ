@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi👋 , I'm Bipasha Nethmi Jayathilaka </h1>
 
 <!--
 **BipashaaJ/BipashaaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
